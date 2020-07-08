@@ -16,7 +16,7 @@ To get started using a FreeClimb account, follow the instructions [here](https:/
    $ dotnet add package freeclimb-cs-sdk
    ```
 
-2. Configure environment variables (this tutorial uses the [dotenv package](https://www.npmjs.com/package/dotenv)).
+2. Configure environment variables.
 
    | ENV VARIABLE            | DESCRIPTION                                                                                                                                                                             |
    | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
